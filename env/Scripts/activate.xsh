@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\resume-builder\backend\env"
+$VIRTUAL_ENV = r"C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\resume-builder\resume-builder-backend\env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

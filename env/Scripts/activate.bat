@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\resume-builder\backend\env"
+set "VIRTUAL_ENV=C:\Users\Sandeep Sharma\Desktop\Finished PROJECTS\resume-builder\resume-builder-backend\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
